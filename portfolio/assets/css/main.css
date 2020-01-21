@@ -8601,3 +8601,12 @@ input, select, textarea {
 			#wrapper.divided > .invert:first-child {
 				box-shadow: none !important;
 			}
+
+			.align-center {
+				display:none;
+			}
+
+			.credit {
+				text-align: center;
+				padding-top: 2%;		
+			}
